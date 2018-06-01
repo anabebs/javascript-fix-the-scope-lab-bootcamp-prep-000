@@ -7,7 +7,7 @@ function myAnimal() {
   return animal
 }
 
-myAnimal();
+
 
 function yourAnimal(animal) {
   // How can we make sure that this function
